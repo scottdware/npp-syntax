@@ -2,6 +2,7 @@
 
 This repo has all of my custom language definitions for Notepad++. The following are included:
 
+* Junos
 * SLAX
 * Windows PowerShell
 
