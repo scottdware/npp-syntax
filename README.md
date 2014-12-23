@@ -1,12 +1,10 @@
 # npp-custom-lang
 
-This repo has all of my custom language definitions for Notepad++. The following are included:
+This repo has all of my custom language definitions for Notepad++. Normal and Obsidian themes are available.
 
-* Go (normal and Obsidian themes)
-* Jinja2
-* Junos
-* SLAX (normal and Obsidian themes)
-* Windows PowerShell (normal and Obsidian themes)
+* Go
+* Junos SLAX
+* Windows PowerShell
 
 ## Installation
 
