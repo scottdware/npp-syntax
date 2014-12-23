@@ -2,10 +2,10 @@
 
 This repo has all of my custom language definitions for Notepad++. The following are included:
 
-* Go
+* Go (normal and Obsidian themes)
 * Jinja2
 * Junos
-* SLAX
+* SLAX (normal and Obsidian themes)
 * Windows PowerShell
 
 ## Installation
