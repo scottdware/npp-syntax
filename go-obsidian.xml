@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">{ } ( ) + = - . * &amp; ^ || &amp;&amp; [ ] ! := / , _ ; &lt; &gt;</Keywords>
+            <Keywords name="Operators1">{ } ( ) + = - . * &amp; ^ || &amp;&amp; [ ] ! := / , _ ; &lt; &gt; :</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">break bool byte case chan complex64 complex128 const continue default defer else fallthrough float32 float64 for func go goto if import int int8 int16 int32 int64 interface map new package panic range recover return rune select string struct switch type uint uint8 uint16 uint32 uint64 uintptr var</Keywords>
+            <Keywords name="Keywords1">break bool byte case chan complex64 complex128 const continue default defer else error fallthrough float32 float64 for func go goto if import int int8 int16 int32 int64 interface map new package panic range recover return rune select string struct switch type uint uint8 uint16 uint32 uint64 uintptr var</Keywords>
             <Keywords name="Keywords2"></Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
