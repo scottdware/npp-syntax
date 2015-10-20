@@ -1,10 +1,11 @@
 ## npp-syntax
 
-This repo has all of my custom language definitions (syntax) for Notepad++. Normal and Obsidian themes are available.
+This repo has all of my custom language definitions (syntax) for Notepad++.
 
 * Go
 * Junos SLAX
 * Windows PowerShell
+* Markdown
 
 ### Installation
 
